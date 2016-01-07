@@ -1,0 +1,17 @@
+#completion-buttons {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#completion-buttons button {
+  margin-right: 10px;
+}
+ 
+table th,
+td {
+  text-align: center;
+}
+
+.pointer {
+  cursor: pointer;
+}
